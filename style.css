@@ -8,6 +8,7 @@
   font-weight: 950;
   font-style: normal;
   color: black;
+  text-decoration: none;
 }
 
 .thick-blue-font {
@@ -68,4 +69,8 @@ ul {
 .sub-heading {
   font-weight: 550;
   display: clear;
+}
+
+#skills-tools {
+  font-size: 17px;
 }
